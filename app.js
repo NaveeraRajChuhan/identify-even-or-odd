@@ -4,4 +4,7 @@ let userNumber1  = +prompt("enter first number");
 if (userNumber1 % 2==0){
     document.write("even")
 
+}else{
+    document.write("odd")
+
 }
